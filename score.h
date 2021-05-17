@@ -15,3 +15,4 @@ void input_score(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_result(int[], int[], int[]);
+// edit by github editor
