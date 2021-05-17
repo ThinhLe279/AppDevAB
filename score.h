@@ -10,9 +10,10 @@
 #define MAX 30
 // this comment is added from local
 //we don't use complex data structure in this program
-// uplate again from shell
+
 void input_score(int[]);
 void evaluation(int[], int[]);
 void classification(int[], int[]);
 void output_result(int[], int[], int[]);
 // edit by github editor
+/*upload again from shell*/
